@@ -1,2 +1,5 @@
 ---
 swap_size: 1G
+swap_location: /swapfile
+region: Europe
+city: Moscow
